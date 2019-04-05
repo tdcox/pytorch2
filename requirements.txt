@@ -1,0 +1,6 @@
+#Fill in dependencies here
+torch
+torchvision==0.2.1
+conda
+future
+onnx
